@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP a program to check vowel/consonant.
+*/
 void main() {
     char i;
     printf("Enter a character:");

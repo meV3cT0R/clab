@@ -1,5 +1,12 @@
 #include <stdio.h>
-
+/*
+WAP to display the following series:
+  a. *        b.    *       c. 5           d. 1       e. *******
+     **            ***         45            212          ***** 
+     ***          *****        345          32123          ***
+     ****        *******       2345        4321234          *
+     *****                     12345      543212345
+*/
 void main() {
     int i,j,k,s;
     for(i=1;i<=5;i++) {

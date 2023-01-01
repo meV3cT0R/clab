@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to input two numbers and then input the operator(+,-,*,/) and find the result using switch.
+*/
 void main() {
     float a,b,r;
     char c;

@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to display all prime numbers between 100 and 200. 
+*/
 void main() {
     int i,j,k;
 

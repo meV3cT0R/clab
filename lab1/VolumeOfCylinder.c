@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+/*
+WAP to find volume of a cylinder.
+*/
 void main() {
     float radius,height,volume;
     printf("Enter radius of a base (in cm) :");

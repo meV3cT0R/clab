@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to input a number and count the number of digits.
+*/
 void main() {
     int ui,c=0;
 

@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+Create a menu driven program to add/subtract/multiply/divide two numbers using switch.
+*/
 void main() {
     int a,b,c,i;
     printf("***************************\n");

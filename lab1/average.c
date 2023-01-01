@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to input 3 numbers and find their average.
+*/
 void main() {
     float a,b,c,result;
     printf("Enter three numbers :" );

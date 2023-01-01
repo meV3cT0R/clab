@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to check odd/even.
+*/
 void main() {
     int n;
     printf("Enter a number :");

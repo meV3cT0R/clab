@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to input 3 numbers and find the middle number.
+*/
 void main() {
     int a,b,c,m;
     printf("Enter  three numbers :" );
