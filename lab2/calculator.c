@@ -22,9 +22,8 @@ void main() {
             r= a/b;
             break;
         default:
-            r = 0;
             printf("kawai koto\n");
     }
 
-    r!=0?printf("Answer : %.2f\n",r):printf("");
+    printf("Answer : %.2f\n",r);
 }
