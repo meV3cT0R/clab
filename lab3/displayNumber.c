@@ -8,7 +8,8 @@ void main() {
 
     for(i=100;i<=200;i++) {
         if(i%10==0 || i%10 == 1) {
-            printf("%d \n",i);
+            printf("%d ",i);
         }
     }
+    printf("\n");
 }
