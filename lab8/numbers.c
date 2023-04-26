@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+A data file "number.txt" contains some numbers. WAP to read the numbers and store all even numbers into "even.txt" and all odd numbers into "odd.txt".
+*/
 void main() {
     FILE *fptr = fopen("number.txt","r");
     FILE *even = fopen("even.txt","w");

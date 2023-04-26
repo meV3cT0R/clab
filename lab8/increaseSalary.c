@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+ A data file contains name,address,salary of some person. WAP to increase salary of all persons by 15%.
+*/
 struct person {
     char name[40]; 
     char address[40];

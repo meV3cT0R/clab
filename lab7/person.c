@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+Create a structure to store name,address,salary of a person and display the person details.
+*/
 struct person {
     char name[30];
     char address[30];

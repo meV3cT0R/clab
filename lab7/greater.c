@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to find the greater between two numbers by the use of pointer.
+*/
 void main() {
     int a,b;
     int *pa=&a,*pb=&b;

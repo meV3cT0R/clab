@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-
+/*
+A data file contains name,address,salary of some person. WAP to input any address and show the records matching that address.
+*/
 struct person {
     char name[40]; 
     char address[40];

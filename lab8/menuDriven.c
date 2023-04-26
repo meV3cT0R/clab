@@ -1,5 +1,10 @@
 #include <stdio.h>
-
+/*
+Create a menu driven program to store and display records (name, address, salary of a person)
+   1. Add Record
+   2. Display Record
+   Enter your choice: 
+*/
 void main() {
     int userInput,running =1;
     char name[40],address[40];

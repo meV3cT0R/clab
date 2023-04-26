@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-
+/*
+Create an array of structure to store name,address,salary of 10 persons and display the details of highest paid person.
+*/
 struct person {
     char name[30];
     char address[30];

@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to copy the content of file "tu.txt" into "university.txt".
+*/
 void main() {
     FILE *fptr = fopen("tu.txt","r");
     FILE *fptrW = fopen("university.txt","w");

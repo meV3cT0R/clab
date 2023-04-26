@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+WAP to show the use of nested structure.
+*/
 struct student {
     char name[30];
     int age;

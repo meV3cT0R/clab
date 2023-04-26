@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+Write a program to input a line of text store it in a file and then read from file and display its contents.
+*/
 void main() {
     char text[100];
     FILE *fptr = fopen("stupid.txt","w");
