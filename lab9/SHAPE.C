@@ -1,7 +1,9 @@
 #include <graphics.h>
 #include <stdio.h>
 #include <conio.h>
-
+/*
+WAP to draw a rectangle with red and a circle with yellow color.
+*/
 void main() {
 	int gd = DETECT, gm;
 	clrscr();

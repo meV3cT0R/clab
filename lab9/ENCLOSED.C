@@ -1,5 +1,7 @@
 #include <graphics.h>
-
+/*
+WAP to draw a circle enclosed inside a rectangle.
+*/
 void main() {
 int gd = DETECT, gm;
 initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");

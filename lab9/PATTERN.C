@@ -1,6 +1,10 @@
 #include <graphics.h>
 #include <stdio.h>
 
+
+/*
+WAP to draw a square and a circle and fill a pattern in both of them.
+*/
 void main() {
 int gd = DETECT, gm;
 initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
